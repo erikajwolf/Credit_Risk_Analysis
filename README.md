@@ -8,17 +8,17 @@ Results: Using bulleted lists, describe the balanced accuracy scores and the pre
 
 ## Results
 
-**- Naive Random Oversampling:** balanced accuracy test is 67%, the precision for the high_risk has positivity of 1% and recall of 74%
+**- Naive Random Oversampling:** balanced accuracy test is 65%, the precision for the high_risk has positivity of 1% and recall of 70%
 
-**-SMOTE Oversampling:** accuracy score is 66.2%, the precision for the high_risk has a low positivity of 1% and recall of 69%
+**-SMOTE Oversampling:** accuracy score is 65%, the precision for the high_risk has a low positivity of 1% and recall of 70%
 
-**-Undersampling:** balanced accuracy is 66.2%, the precision is 99% and recall is 41%
+**-Undersampling:** balanced accuracy is 65%, the precision is 99% and recall is 40%
 
-**-Oversampling and Undersampling:** balanced accuracy is 54.7%, the precision is 99% and recall is 57%
+**-Oversampling and Undersampling:** balanced accuracy is 54%, the precision is 99% and recall is 57%
 
-**-Balanced Random Forest Classifier:** the accuracy score is 77.2%, the precision is 99%, and the recall is 88%
+**-Balanced Random Forest Classifier:** the accuracy score is 78%, the precision is 97%, and the recall is 87%
 
-**-Easy Ensemble AdaBoost Classifier:** the accuracy score 91.7%, the precision risk is 99% and the recall is 94%
+**-Easy Ensemble AdaBoost Classifier:** the accuracy score 93%, the precision risk is 91% and the recall is 94%
 
 Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 ## Conclusion
