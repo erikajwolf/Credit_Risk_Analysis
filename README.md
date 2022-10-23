@@ -10,6 +10,8 @@ Results: Using bulleted lists, describe the balanced accuracy scores and the pre
 
 **- Naive Random Oversampling:** balanced accuracy test is 65%, the precision for the high_risk has positivity of 1% and recall of 70%
 
+![File_To_Load](File_To_Load.png)
+
 **-SMOTE Oversampling:** accuracy score is 65%, the precision for the high_risk has a low positivity of 1% and recall of 70%
 
 **-Undersampling:** balanced accuracy is 65%, the precision is 99% and recall is 40%
